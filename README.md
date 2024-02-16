@@ -1,4 +1,4 @@
-# MyNotesApp
+# A1-Notes
 
 MyNotesApp is an Android application that allows users to manage their notes with ease. The app follows the MVVM architecture pattern and leverages Room, Coroutines, LiveData, and ViewModel for a robust and efficient user experience. Lottie animations are used to enhance the app's visual appeal, making note-taking a fun experience.
 
